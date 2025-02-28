@@ -1,3 +1,14 @@
+#----PACOTES NECESSÁRIOS----#
+opencv-python
+numpy
+tensorflow
+nltk
+scikit-learn
+joblib
+flask
+-> O ARQUIVO 'instalador de pacotes.bat' PODE INSTALAR TODAS AUTOMÁTICAMENTE
+
+
 Exercício: Desenvolvimento de uma Aplicação de Machine Learning para Identificação de um Bicho-Preguiça via Imagem ou Texto
 
 📖 Descrição da Tarefa
