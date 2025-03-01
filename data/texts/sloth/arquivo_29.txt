@@ -1,0 +1,1 @@
+Obtêm hidratação das folhas que consomem.

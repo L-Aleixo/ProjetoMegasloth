@@ -1,0 +1,1 @@
+Evita áreas muito abertas onde ficaria vulnerável.

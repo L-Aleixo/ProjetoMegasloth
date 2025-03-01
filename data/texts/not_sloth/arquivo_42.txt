@@ -1,0 +1,1 @@
+Mantêm temperatura corporal variada, conforme sua classe biológica.
